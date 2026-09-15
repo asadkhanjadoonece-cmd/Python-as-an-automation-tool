@@ -1234,8 +1234,8 @@ This project is built on top of the following open-source libraries:
 
 ## Contact
 
-**Maintainer:** Your Name
-**Email:** you@example.com
-**Repository:** [github.com/yourname/automated-sales-report](https://github.com/yourname/automated-sales-report)
+**Maintainer:** Asad khan
+**Email:** asadkhanjadoon.ece@gmail.com
+
 
 If you find this project useful, consider starring the repository.
